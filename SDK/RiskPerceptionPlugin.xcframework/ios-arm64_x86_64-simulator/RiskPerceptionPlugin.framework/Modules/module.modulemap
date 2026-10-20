@@ -1,0 +1,6 @@
+framework module RiskPerceptionPlugin {
+  umbrella header "RiskPerceptionPlugin.h"
+  export *
+
+  module * { export * }
+}

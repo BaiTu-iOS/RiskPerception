@@ -1,0 +1,9 @@
+
+framework module RiskPerception {
+    umbrella header "HTProtectSwift.h"
+    header "NTESRiskPerceptionSwift.h"
+
+
+    export *
+    module * { export * }
+}
